@@ -1,6 +1,6 @@
 # Crawford Grammar School — Complete Multi-Portal School Management Mobile Application
 
-> **Technology Stack:** Flutter & Dart | Material Design 3 | Android Studio Ready | University Semester Project  
+> **Technology Stack:** Flutter & Dart | Material Design 3 | Android Studio  
 > **Brand Direction:** Crawford Grammar School Official Identity (Primary Red `#E50914`, Dark Navy `#10212B`, Pure White `#FFFFFF`)
 
 ---
@@ -20,10 +20,7 @@
    - Start an Android emulator (e.g. Pixel running API 33/34) OR select **Chrome (web)** from the device dropdown.
    - Click the green **Run (Play)** button or press `Shift + F10`.
 
-> **Note on PowerShell `flutter` Command:**
-> Flutter was installed at `C:\Users\LAPTOP EXPERT\flutter_windows_3.47.6-stable\flutter\bin`. This path has now been permanently added to your Windows User `PATH` environment variable. If you open a new PowerShell terminal, `flutter` will work directly.
 
----
 
 ## 2. University Mid-Term Demo Credentials
 
@@ -36,7 +33,7 @@ All four portals feature **1-click auto-fill buttons** on the Login screen, or y
 | **Teacher Portal** | `teacher@crawford.edu.pk` | `password123` | **Prof. Muhammad Usman** (Senior Sciences) |
 | **Admin Portal** | `admin@crawford.edu.pk` | `password123` | **Dr. Katherine Crawford** (Principal) |
 
-> **Pro-Tip for Presentation:** You can click **"Quick Switch Portal"** directly from the Navigation Drawer or Settings at any time to demonstrate all 4 dashboards without logging out!
+
 
 ---
 
