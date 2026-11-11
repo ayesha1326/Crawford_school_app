@@ -1,0 +1,36 @@
+name: crawford_school_app
+description: "Crawford Grammar School - Complete Multi-Portal School Management Application"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo/
+    - assets/images/school/
+    - assets/images/students/
+    - assets/images/teachers/
+    - assets/images/principal/
+    - assets/images/parents/
+    - assets/images/facilities/
+    - assets/images/classrooms/
+    - assets/images/gallery/
+    - assets/images/events/
+    - assets/images/admissions/
+    - assets/images/icons/
+    - assets/images/banners/
